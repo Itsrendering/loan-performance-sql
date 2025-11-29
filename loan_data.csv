@@ -1,0 +1,14 @@
+loan_id,loan_amount,interest_rate,loan_term,credit_score,income,state,loan_status,issue_date
+1,12000,11.5,36,720,85000,NY,Fully Paid,2023-01-15
+2,8000,17.2,60,640,42000,CA,Charged Off,2023-02-10
+3,15000,9.8,36,780,95000,TX,Fully Paid,2023-02-22
+4,5000,21.3,60,610,39000,FL,Default,2023-03-05
+5,20000,12.1,36,700,88000,NJ,Fully Paid,2023-03-18
+6,9500,18.5,60,655,51000,OH,Charged Off,2023-04-01
+7,3000,24.9,36,590,32000,AZ,Default,2023-04-12
+8,17500,10.4,36,745,91000,WA,Fully Paid,2023-04-25
+9,22000,13.2,60,680,78000,IL,Fully Paid,2023-05-07
+10,4000,19.8,36,630,46000,GA,Charged Off,2023-05-20
+
+
+  ADD LOAN data set
